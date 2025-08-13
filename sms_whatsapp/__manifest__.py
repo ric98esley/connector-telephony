@@ -10,8 +10,8 @@
     'installable': True,
     'depends': ["base_phone", "sms", "iap_alternative_provider"],
     'license': 'AGPL-3',
-    'data': [
-        'views/views.xml',
+    "data": [
+        "views/iap_account_views.xml",
     ],
 }
 
