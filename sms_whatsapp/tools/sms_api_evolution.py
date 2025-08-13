@@ -1,6 +1,4 @@
-# Copyright 2023 ForgeFlow S.L. (https://www.forgeflow.com).
-# License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
-
+# Copyright 2025. (https://github.com/ric98esley)
 import logging
 from typing import Dict, List, Optional
 
